@@ -1,0 +1,8 @@
+.navbar-brand {
+  margin-right: 50rem!important;
+}
+
+.navbar-nav {
+  display: flex;
+  justify-content: space-between;
+}
